@@ -1,7 +1,8 @@
 # Project: Dictionary of Occupational Titles (DOT), 3rd edition
 *Version: 1.0*
 
-*Description:* this repository contains digitized information from the 3rd edition of the Dictionary of Occupational Titles.
+## Description: 
+This repository contains digitized information from the 3rd edition of the Dictionary of Occupational Titles.
 
 ## Contents:
 - **data/**: folder with seven datasets in Stata format (.dta). These files contain all the information we digitized from the DOT 3rd edition.
