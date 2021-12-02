@@ -45,7 +45,7 @@ cd "C:\Users\thecs\Dropbox (Boston University)\boston_university\8-Research Assi
 
     joinby job_title using "data/cw_dot65_census1970"
 
-    save "data/dot1965_wide_long_v1", replace
+    save "data/dot1965_wide_v1", replace
 }
 
 *Computes averages, min and max of skill requirements by job title 
